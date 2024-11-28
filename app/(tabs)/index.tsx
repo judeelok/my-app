@@ -1,17 +1,19 @@
 import { Stack } from 'expo-router';
-import { Text, View, Image } from 'react-native';
+import { Text, View, Image, FlatList } from 'react-native';
 import events from 'assets/events.json';
 import EventListItem from '~/components/EventListItem';
 
 export default function Events() {
-  const event = events[0];
-
   return (
     <>
       <Stack.Screen options={{ title: 'Events' }} />
 
-      {/* Event list item */}
-      <EventListItem event={event} />
+      {/* Flatlist */}
+      <FlatList
+        data={events}
+        renderItem={({ item }) => <EventListItem event={item} />}
+        keyExtractor={(item) => item.id}
+      />
     </>
   );
 }
