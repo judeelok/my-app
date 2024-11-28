@@ -13,6 +13,7 @@ export default function Events() {
         data={events}
         renderItem={({ item }) => <EventListItem event={item} />}
         keyExtractor={(item) => item.id}
+        className="bg-white"
       />
     </>
   );
