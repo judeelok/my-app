@@ -4,7 +4,7 @@ import events from 'assets/events.json';
 import EventListItem from '~/components/EventListItem';
 
 export default function Events() {
-  const event = events[8];
+  const event = events[0];
 
   return (
     <>
