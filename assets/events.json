@@ -1,0 +1,122 @@
+[
+  {
+    "id": "1",
+    "title": "Boutique Design New York (BDNY)",
+    "description": "The leading trade fair for boutique hospitality design featuring exhibitors, speakers, and networking opportunities for innovative design solutions.",
+    "datetime": "2024-11-10T09:00:00-05:00",
+    "location": "Jacob K. Javits Center, New York City, NY, USA",
+    "image": "https://www.bdny.com/wp-content/uploads/2024-BDNY.jpg"
+  },
+  {
+    "id": "2",
+    "title": "IAAPA Expo",
+    "description": "Global trade show for the attractions industry, showcasing innovations for amusement parks, resorts, and entertainment centers.",
+    "datetime": "2024-11-19T09:00:00-05:00",
+    "location": "Orange County Convention Center, Orlando, FL, USA",
+    "image": "https://www.iaapa.org/images/iaapa-expo.jpg"
+  },
+  {
+    "id": "3",
+    "title": "Pennsylvania Christmas + Gift Show",
+    "description": "A seasonal fair featuring Christmas decorations, handmade gifts, entertainment, and shopping variety.",
+    "datetime": "2024-12-04T10:00:00-05:00",
+    "location": "PA Farm Show Complex & Expo Center, Harrisburg, PA, USA",
+    "image": "https://www.paxmasgiftshow.com/images/header.jpg"
+  },
+  {
+    "id": "4",
+    "title": "SC – Supercomputing Conference",
+    "description": "An international event highlighting high-performance computing, AI, and innovations in IT with thousands of attendees worldwide.",
+    "datetime": "2024-11-17T09:00:00-05:00",
+    "location": "Georgia World Congress Center, Atlanta, GA, USA",
+    "image": "https://sc24.supercomputing.org/images/sc-conference.jpg"
+  },
+  {
+    "id": "5",
+    "title": "Art Basel Miami Beach",
+    "description": "International contemporary art fair showcasing galleries, artists, and artworks from around the world.",
+    "datetime": "2024-12-04T12:00:00-05:00",
+    "location": "Miami Beach Convention Center, Miami Beach, FL, USA",
+    "image": "https://artbasel.com/images/artbasel-miami.jpg"
+  },
+  {
+    "id": "6",
+    "title": "NJLM Conference",
+    "description": "A platform to engage with local government officials and explore solutions in energy, housing, transportation, and infrastructure.",
+    "datetime": "2024-11-19T09:00:00-05:00",
+    "location": "Atlantic City Convention Center, Atlantic City, NJ, USA",
+    "image": "https://www.njlm.org/conference.jpg"
+  },
+  {
+    "id": "7",
+    "title": "DEMA Show",
+    "description": "The premier event for diving, travel, and action water sports professionals.",
+    "datetime": "2024-11-19T09:00:00-05:00",
+    "location": "Las Vegas Convention Center, Las Vegas, NV, USA",
+    "image": "https://www.demashow.com/images/dema-2024.jpg"
+  },
+  {
+    "id": "8",
+    "title": "San Diego International Auto Show",
+    "description": "A showcase of the latest vehicles, including electric and autonomous models.",
+    "datetime": "2024-12-28T10:00:00-08:00",
+    "location": "San Diego Convention Center, San Diego, CA, USA",
+    "image": "https://www.sdautoshow.com/images/sdautoshow-2024.jpg"
+  },
+  {
+    "id": "9",
+    "title": "CES Consumer Electronics Show",
+    "description": "The world's leading trade show for consumer technology and innovation.",
+    "datetime": "2025-01-07T09:00:00-08:00",
+    "location": "Las Vegas Convention Center, Las Vegas, NV, USA",
+    "image": "https://ces.tech/images/ces-2025.jpg"
+  },
+  {
+    "id": "10",
+    "title": "Performance Racing Industry (PRI) Trade Show",
+    "description": "The ultimate event for motorsport and racing enthusiasts.",
+    "datetime": "2024-12-12T09:00:00-05:00",
+    "location": "Indiana Convention Center, Indianapolis, IN, USA",
+    "image": "https://www.prishow.com/images/pri-2024.jpg"
+  },
+  {
+    "id": "11",
+    "title": "Abilities Expo",
+    "description": "A trade show for people with disabilities, featuring assistive technologies and workshops.",
+    "datetime": "2024-12-06T10:00:00-05:00",
+    "location": "Washington State Convention Center, Seattle, WA, USA",
+    "image": "https://www.abilitiesexpo.com/images/abilities-2024.jpg"
+  },
+  {
+    "id": "12",
+    "title": "Midwest Clinic",
+    "description": "An international band and orchestra conference with concerts and clinics.",
+    "datetime": "2024-12-18T10:00:00-05:00",
+    "location": "McCormick Place Convention Center, Chicago, IL, USA",
+    "image": "https://www.midwestclinic.org/images/midwest-2024.jpg"
+  },
+  {
+    "id": "13",
+    "title": "Grand Strand Gift & Resort Merchandise Show",
+    "description": "A trade show featuring beach, souvenir, and gift items.",
+    "datetime": "2024-12-08T10:00:00-05:00",
+    "location": "Myrtle Beach Convention Center, Myrtle Beach, SC, USA",
+    "image": "https://www.grandstrandshow.com/images/grandstrand-2024.jpg"
+  },
+  {
+    "id": "14",
+    "title": "AASLD The Liver Meeting",
+    "description": "A premier event for liver health professionals with presentations and networking.",
+    "datetime": "2024-11-15T10:00:00-05:00",
+    "location": "San Diego Convention Center, San Diego, CA, USA",
+    "image": "https://www.aasld.org/images/liver-meeting-2024.jpg"
+  },
+  {
+    "id": "15",
+    "title": "The Makeup Show NYC",
+    "description": "A showcase for the latest trends in makeup and beauty products.",
+    "datetime": "2024-12-07T10:00:00-05:00",
+    "location": "Metropolitan Pavilion, New York City, NY, USA",
+    "image": "https://www.themakeupshow.com/images/makeupshow-nyc.jpg"
+  }
+]
