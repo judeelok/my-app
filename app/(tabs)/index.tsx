@@ -5,7 +5,7 @@ export default function Events() {
   return (
     <>
       <Stack.Screen options={{ title: 'Events' }} />
-      <Text>Hello</Text>
+      <Text>Hello Jude Elok</Text>
     </>
   );
 }
